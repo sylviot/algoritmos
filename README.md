@@ -9,7 +9,7 @@ Os algoritmos são organizados para uma ordem de aprendizado, separados por assu
 	*	:white_check_mark: Bubble
 	*	:white_check_mark: Insert
 	*	:white_check_mark: Select*
-	*	:x: Shell*
+	*	:white_check_mark: Shell*
 	*	:x: Comb*
 	*	:x: Quick*
 	*	:x: Merge*
