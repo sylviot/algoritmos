@@ -4,23 +4,14 @@ using namespace std;
 
 int main() {
 	/*
-    %d utilizado para inteiro
-    %c utilizado para caracter
-    %f utilizado para float(ponto flutuante)
-    %lf utilizado para double
-    %s utilizado para string
-    %o utilizado para octal
-    %x utilizado para hexadecimal
-    \n utilizado para nova linha
-
-    Exemplo de entrada:
-
-    1
-    $
-    1.2
-    1.2
-    string
-
+        %d utilizado para inteiro
+        %c utilizado para caracter
+        %f utilizado para float(ponto flutuante)
+        %lf utilizado para double
+        %s utilizado para string
+        %o utilizado para octal
+        %x utilizado para hexadecimal
+        \n utilizado para nova linha
 	*/
 
     int input_int;
