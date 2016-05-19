@@ -5,7 +5,7 @@ public class BubbleSort
 	public static void Main()
 	{
 		// Array de exemplo.
-		int[] array = new int[] { 2, 1, 3, 5, 4 };
+		int[] array = new int[] { 2, 3, 1, 5, 4 };
 		
 		// Resultado da ordenação do array de exemplo.
 		int[] arraySorted = Bubble(array);
