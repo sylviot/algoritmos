@@ -5,10 +5,10 @@ Os algoritmos são organizados para uma ordem de aprendizado, separados por assu
 
 ### Conteúdo
 *	[Basic](/basic)
-	*	Input
-	*	Output
-	*	Condition
-	*	Loop
+	*	:white_check_mark: Input*
+	*	:white_check_mark: Output*
+	*	:white_check_mark: Condition*
+	*	:white_check_mark: Loop*
 *	[Sorting](/sorting)
 	*	:white_check_mark: Bubble
 	*	:white_check_mark: Insert
