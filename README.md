@@ -18,8 +18,10 @@ Os algoritmos são organizados para uma ordem de aprendizado, separados por assu
 	*	:white_check_mark: Quick*
 	*	:x: Merge*
 	*	:x: Heap*
-*	...
-
+*	[Graph](/graph)
+	*	DFS - Depth-First Search 
+	*	BFS - Breadth-First Search 
+* ...
 
 
 
@@ -27,7 +29,7 @@ Os algoritmos são organizados para uma ordem de aprendizado, separados por assu
 
 *	C#
 *	C/C++
-*	Java
+*	Outras..
 
 
 Todos os algoritmos implementados tem fins educacionais. O uso em competições pode levar a TLE (Tempo Limite Excedido).
