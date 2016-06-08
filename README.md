@@ -1,38 +1,39 @@
-# Repositório com algoritmos
+# <center>Repositório com algoritmos</center>
 
 Os algoritmos são organizados para uma ordem de aprendizado, separados por assunto para a facilidade na busca.
 
 
 ### Conteúdo
-*	[Basic](/basic)
-	*	:white_check_mark: Input*
-	*	:white_check_mark: Output*
-	*	:white_check_mark: Condition*
-	*	:white_check_mark: Loop*
-*	[Sorting](/sorting)
-	*	:white_check_mark: Bubble
-	*	:white_check_mark: Insert
-	*	:white_check_mark: Select*
-	*	:white_check_mark: Shell*
-	*	:x: Comb*
-	*	:white_check_mark: Quick*
-	*	:x: Merge*
-	*	:x: Heap*
-*	[Graph](/graph)
-	*	DFS - Depth-First Search 
-	*	BFS - Breadth-First Search 
-* ...
 
+|# 		|Conteudo 	|C++				 |C#				  |Python	|Java	|
+|:-		|:-			|:-:				 |:-:				  |:-:		|:-:	|
+|Basic	|Input		|:white_check_mark:	 |:white_check_mark:  |			|		|
+|Basic	|Output		|:white_check_mark:	 |:white_check_mark:  |			|		|
+|Basic	|Condition	|					 |:white_check_mark:  |			|		|
+|Basic	|Loop		|					 |:white_check_mark:  |			|		|
+|
+|Array<br><br>|Queue static<br>Queue dynamic|
+|Array<br><br>|Stack Static<br>Stack Dynamic|
+|Array|Union - Find|
+|
+|Sort	|Bubble		|	|:white_check_mark:|
+|Sort	|Insert		|	|:white_check_mark:|
+|Sort	|Select		|	|:white_check_mark:|
+|Sort	|Shell		|	|:black_small_square:|
+|Sort	|Comb		|	||
+|Sort	|Quick		|	|:black_small_square:|
+|Sort	|Merge		|	||
+|Sort	|Heap		|	||
+|
+|Graph<br><br>|DFS - Adjacencia<br>DFS - Matriz|
+|Graph<br><br>|BFS - Adjacencia<br>BFS - Matriz|
+|Graph|Kruskal|
+|Graph|Prism|
+|Graph|Dijkstra|
 
-
-### Linguagens: 
-
-*	C#
-*	C/C++
-*	Outras..
-
-
-Todos os algoritmos implementados tem fins educacionais. O uso em competições pode levar a TLE (Tempo Limite Excedido).
+____________________
+Todos os algoritmos implementados tem fins educacionais. 
+O uso em competições pode levar a TLE (Tempo Limite Excedido).
 
 ### Colaboradores
 
