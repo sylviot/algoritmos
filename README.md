@@ -1,4 +1,4 @@
-# <center>Repositório com algoritmos</center>
+# Repositório com algoritmos
 
 Os algoritmos são organizados para uma ordem de aprendizado, separados por assunto para a facilidade na busca.
 
@@ -29,12 +29,13 @@ Os algoritmos são organizados para uma ordem de aprendizado, separados por assu
 |Graph<br><br>|DFS - Adjacencia<br>DFS - Matriz|
 |Graph<br><br>|BFS - Adjacencia<br>BFS - Matriz|
 |Graph|Kruskal|
-|Graph|Prism|
+|Graph|Prim|
 |Graph|Dijkstra|
 
 ____________________
-Todos os algoritmos implementados tem fins educacionais. 
-O uso em competições pode levar a TLE (Tempo Limite Excedido).
+#### :warning: Atenção
+* Todos os algoritmos implementados tem fins educacionais. 
+* O uso em competições pode levar a TLE (Tempo Limite Excedido).
 
 ### Colaboradores
 
