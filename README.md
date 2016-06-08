@@ -5,8 +5,9 @@ Os algoritmos são organizados para uma ordem de aprendizado, separados por assu
 
 ### Conteúdo
 
+
 |# 		|Conteudo 	|C++				 |C#				  |Python	|Java	|
-|:-		|:-			|:-:				 |:-:				  |:-:		|:-:	|
+|:---	|:---		|:---:				 |:---:				  |:---:	|:---:	|
 |Basic	|Input		|:white_check_mark:	 |:white_check_mark:  |			|		|
 |Basic	|Output		|:white_check_mark:	 |:white_check_mark:  |			|		|
 |Basic	|Condition	|					 |:white_check_mark:  |			|		|
