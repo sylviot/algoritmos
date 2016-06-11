@@ -13,8 +13,8 @@ Os algoritmos são organizados para uma ordem de aprendizado, separados por assu
 |Basic	|Condition	|					 |:white_check_mark:  |			|		|
 |Basic	|Loop		|					 |:white_check_mark:  |			|		|
 |
-|Array<br><br>|Queue static<br>Queue dynamic|
-|Array<br><br>|Stack Static<br>Stack Dynamic|
+|Array<br><br>|Queue static<br>Queue dynamic| |:white_check_mark:<br>:white_check_mark:|
+|Array<br><br>|Stack Static<br>Stack Dynamic| | |
 |Array|Union - Find|
 |
 |Sort	|Bubble		|	|:white_check_mark:|
