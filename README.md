@@ -10,14 +10,14 @@ Os algoritmos são organizados para uma ordem de aprendizado, separados por assu
 |:---	|:---		|:---:				 |:---:				  |:---:	|:---:	|
 |Basic	|Input		|:white_check_mark:	 |:white_check_mark:  |			|		|
 |Basic	|Output		|:white_check_mark:	 |:white_check_mark:  |			|		|
-|Basic	|Condition	|:white_check_mark:  |:white_check_mark:  |			|		|
-|Basic	|Loop		|:white_check_mark:	 |:white_check_mark:  |			|		|
+|Basic	|Condition	|:black_small_square:|:white_check_mark:  |			|		|
+|Basic	|Loop		|:black_small_square:|:white_check_mark:  |			|		|
 |
 |Array<br><br>|Queue static<br>Queue dynamic| |:white_check_mark:<br>:white_check_mark:|
 |Array<br><br>|Stack Static<br>Stack Dynamic| | |
 |Array|Union - Find|
 |
-|Sort	|Bubble		|	|:white_check_mark:|
+|Sort	|Bubble		|:black_small_square:|:white_check_mark:|
 |Sort	|Insert		|	|:white_check_mark:|
 |Sort	|Select		|	|:white_check_mark:|
 |Sort	|Shell		|	|:black_small_square:|
