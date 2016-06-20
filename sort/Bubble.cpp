@@ -12,12 +12,12 @@ void swap(int * a, int * b){
 	*b = t;
 }
 
-int * bubble(int * array, int array_size){
+void bubble(int array[], int array_size){
 	
 	for(int i = 0; i < array_size-1; i++){
 		for(int j = i + 1; j < array_size; j++)	{
 			if(need_swap(array[i], array[j])){
-				swap(&array[i], &array[j]);
+				swap(array[i], array[j]);
 			}
 		}
 	}
@@ -28,10 +28,10 @@ int * bubble(int * array, int array_size){
 int main(){
 	int array[]=  { 2, 3, 1, 5, 4 };
 	int size = sizeof(array)/sizeof(int);
-	auto array_sorted = bubble(array, size);
+	bubble(array, size);
 
-	for(auto a:array){
-		printf("%d\n", a);
+	for(int a:array){
+		cout << a <<endl;
 	}
 	
 	return 0;
