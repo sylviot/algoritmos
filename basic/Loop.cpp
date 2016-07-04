@@ -3,20 +3,34 @@
 using namespace std;
 
 int main(){
-	int i = 0;
-	for(i = 0; i < 10; i++){
+	int i;
+
+	/*
+		Entendendo o for:
+		1.(void) Inicializador de variaveis do escopo.
+		2.(bool) Condições da repetição.
+		3.(void) Incrementador de variaveis
+
+		for(1 ; 2 ; 3)
+	*/
+
+	// De 0 a 9 faça:
+	for(/*1*/i = 0; /*2*/i < 10; /*3*/i++){
 
 	}
 
-	for(i = 10; i > 0; 1--){
+	// De 10 a 1 faça:
+	for(/*1*/i = 10; /*2*/i > 0; /*3*/i--){
 
 	}
 
-	for(;;){
+	// For infinito até ter uma quebra.
+	for(/*1*/;/*2*/;/*3*/){
 		break;
 	}
 
 	i = 0;
+	// While usando no inicio.
 	while(i++){
 		if(i < 3){
 			continue;
@@ -26,6 +40,7 @@ int main(){
 	}
 
 	i = 0;
+	// while é usado após fazer.
 	do{
 		if(i < 3){
 			continue;
