@@ -8,7 +8,7 @@ Os algoritmos são organizados para uma ordem de aprendizado, separados por assu
 
 |# 		|Conteudo 	|C++				 |C#				  |Python	|Java	|
 |:---	|:---		|:---:				 |:---:				  |:---:	|:---:	|
-|Basic	|Input		|:white_check_mark:	 |:white_check_mark:  |			|	:black_small_square: |
+|Basic	|Input		|:white_check_mark:	 |:white_check_mark:  |			|	:white_check_mark: |
 |Basic	|Output		|:white_check_mark:	 |:white_check_mark:  |			|		|
 |Basic	|Condition	|:white_check_mark:	 |:white_check_mark:  |			|		|
 |Basic	|Loop		|:white_check_mark:	 |:white_check_mark:  |			|		|
