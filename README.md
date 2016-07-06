@@ -45,7 +45,8 @@ ____________________
 ### Colaboradores
 
 :shipit: [sylviot](https://github.com/sylviot)
-[raphaelheitor](https://github.com/raphaelheitor)
+
+:koala: [raphaelheitor](https://github.com/raphaelheitor)
 
 =====================
 Mantido por [sylviot](https://github.com/sylviot).
