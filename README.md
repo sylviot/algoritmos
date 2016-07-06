@@ -8,7 +8,7 @@ Os algoritmos são organizados para uma ordem de aprendizado, separados por assu
 
 |# 		|Conteudo 	|C++				 |C#				  |Python	|Java	|
 |:---	|:---		|:---:				 |:---:				  |:---:	|:---:	|
-|Basic	|Input		|:white_check_mark:	 |:white_check_mark:  |			|		|
+|Basic	|Input		|:white_check_mark:	 |:white_check_mark:  |			|	:black_small_square: |
 |Basic	|Output		|:white_check_mark:	 |:white_check_mark:  |			|		|
 |Basic	|Condition	|:white_check_mark:	 |:white_check_mark:  |			|		|
 |Basic	|Loop		|:white_check_mark:	 |:white_check_mark:  |			|		|
@@ -39,12 +39,13 @@ Os algoritmos são organizados para uma ordem de aprendizado, separados por assu
 
 ____________________
 #### :warning: Atenção
-* Todos os algoritmos implementados tem fins educacionais. 
+* Todos os algoritmos implementados tem fins educacionais.
 * O uso em competições pode levar a TLE (Tempo Limite Excedido).
 
 ### Colaboradores
 
 :shipit: [sylviot](https://github.com/sylviot)
+[raphaelheitor](https://github.com/raphaelheitor)
 
 =====================
 Mantido por [sylviot](https://github.com/sylviot).
