@@ -42,13 +42,13 @@ class Condition
     switch(number)
     {
       case 1:
-      Console.WriteLine("Number 1");
+      System.out.println("Number 1");
       break;
       case 2:
-      Console.WriteLine("Number 2");
+      System.out.println("Number 2");
       break;
       default:
-      Console.WriteLine("Default");
+      System.out.println("Default");
       break;
     }
   }
