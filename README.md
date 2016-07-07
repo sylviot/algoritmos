@@ -10,7 +10,7 @@ Os algoritmos são organizados para uma ordem de aprendizado, separados por assu
 |:---	|:---		|:---:				 |:---:				  |:---:	|:---:	|
 |Basic	|Input		|:white_check_mark:	 |:white_check_mark:  |			|	:white_check_mark: |
 |Basic	|Output		|:white_check_mark:	 |:white_check_mark:  |			|	:white_check_mark: |
-|Basic	|Condition	|:white_check_mark:	 |:white_check_mark:  |			|		|
+|Basic	|Condition	|:white_check_mark:	 |:white_check_mark:  |			|	:white_check_mark: |
 |Basic	|Loop		|:white_check_mark:	 |:white_check_mark:  |			|		|
 |Basic	|Bitwise	|:black_small_square:| |
 |
