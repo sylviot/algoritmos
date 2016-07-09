@@ -14,19 +14,19 @@ Os algoritmos são organizados para uma ordem de aprendizado, separados por assu
 |Basic	|Loop		|[:white_check_mark:](basic/Loop.cpp) |[:white_check_mark:](basic/Loop.cs)  |			|		|
 |Basic	|Bitwise	|[:black_small_square:](basic/Bitwise.cpp)| |
 |
-|Array<br><br>|Queue static<br>Queue dynamic| |:white_check_mark:<br>:white_check_mark:|
+|Array<br><br>|Queue static<br>Queue Dynamic| |[:white_check_mark:](array/Queue_Static.cs)<br>[:white_check_mark:](array/Queue_Dynamic.cs)|
 |Array<br><br>|Stack Static<br>Stack Dynamic| | |
 |Array|Priority queue| | |
 |Array|Segment tree| | |
 |Array|Kadane| | |
 |Array<br><br>|UnionFind<br>UnionFind by rank|	|	|
 |
-|Sort	|Bubble		|:black_small_square:|:white_check_mark:|
-|Sort	|Insert		|	|:white_check_mark:|
-|Sort	|Select		|	|:white_check_mark:|
-|Sort	|Shell		|	|:black_small_square:|
+|Sort	|Bubble		|[:black_small_square:](sort/Bubble.cpp)|[:white_check_mark:](sort/Bubble.cs)|
+|Sort	|Insert		|	|[:white_check_mark:](sort/Insert.cs)|
+|Sort	|Select		|	|[:white_check_mark:](sort/Select.cs)|
+|Sort	|Shell		|	|[:black_small_square:](sort/Shell.cs)|
 |Sort	|Comb		|	||
-|Sort	|Quick		|	|:black_small_square:|
+|Sort	|Quick		|	|[:black_small_square:](sort/Quick.cs)|
 |Sort	|Merge		|	||
 |Sort	|Heap		|	||
 |
