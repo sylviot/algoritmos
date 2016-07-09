@@ -8,11 +8,11 @@ Os algoritmos são organizados para uma ordem de aprendizado, separados por assu
 
 |# 		|Conteudo 	|C++				 |C#				  |Python	|Java	|
 |:---	|:---		|:---:				 |:---:				  |:---:	|:---:	|
-|Basic	|Input		|:white_check_mark:	 |:white_check_mark:  |			|	:white_check_mark: |
-|Basic	|Output		|:white_check_mark:	 |:white_check_mark:  |			|	:white_check_mark: |
-|Basic	|Condition	|:white_check_mark:	 |:white_check_mark:  |			|	:white_check_mark: |
-|Basic	|Loop		|:white_check_mark:	 |:white_check_mark:  |			|		|
-|Basic	|Bitwise	|:black_small_square:| |
+|Basic	|Input		|[:white_check_mark:](basic/Input.cpp)	 |[:white_check_mark:](basic/Input.cs)  |			|	[:white_check_mark:](basic/Input.java) |
+|Basic	|Output		|[:white_check_mark:](basic/Output.cpp)	 |[:white_check_mark:](basic/Output.cs)  |			|	[:white_check_mark:](basic/Output.java) |
+|Basic	|Condition	|[:white_check_mark:](basic/Condition.cpp)	 |[:white_check_mark:](basic/Condition.cs)  |			|	[:white_check_mark:](basic/Condition.java) |
+|Basic	|Loop		|[:white_check_mark:](basic/Loop.cpp) |[:white_check_mark:](basic/Loop.cs)  |			|		|
+|Basic	|Bitwise	|[:black_small_square:](basic/Bitwise.cpp)| |
 |
 |Array<br><br>|Queue static<br>Queue dynamic| |:white_check_mark:<br>:white_check_mark:|
 |Array<br><br>|Stack Static<br>Stack Dynamic| | |
