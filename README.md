@@ -17,7 +17,6 @@ Os algoritmos são organizados para uma ordem de aprendizado, separados por assu
 |Array<br><br>|Queue static<br>Queue Dynamic| |[:white_check_mark:](array/Queue_Static.cs)<br>[:white_check_mark:](array/Queue_Dynamic.cs)|
 |Array<br><br>|Stack Static<br>Stack Dynamic| | |
 |Array|Priority queue| | |
-|Array|Segment tree| | |
 |Array|Kadane| | |
 |Array<br><br>|UnionFind<br>UnionFind by rank|	|	|
 |
@@ -30,6 +29,7 @@ Os algoritmos são organizados para uma ordem de aprendizado, separados por assu
 |Sort	|Merge		|	||
 |Sort	|Heap		|	||
 |
+|Graph|Segment tree|[:black_small_square:](graph/Segment_Tree.cs)| |
 |Graph<br><br>|DFS - Adjacencia<br>DFS - Matriz|
 |Graph<br><br>|BFS - Adjacencia<br>BFS - Matriz|
 |Graph|Kruskal|
