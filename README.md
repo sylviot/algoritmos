@@ -29,7 +29,7 @@ Os algoritmos são organizados para uma ordem de aprendizado, separados por assu
 |Sort	|Merge		|	||
 |Sort	|Heap		|	||
 |
-|Graph|Segment tree|[:black_small_square:](graph/Segment_Tree.cs)| |
+|Graph|Segment tree|[:black_small_square:](graph/Segment_Tree.cpp)| |
 |Graph<br><br>|DFS - Adjacencia<br>DFS - Matriz|
 |Graph<br><br>|BFS - Adjacencia<br>BFS - Matriz|
 |Graph|Kruskal|
@@ -47,6 +47,3 @@ ____________________
 :shipit: [sylviot](https://github.com/sylviot)
 
 :koala: [raphaelheitor](https://github.com/raphaelheitor)
-
-=====================
-Mantido por [sylviot](https://github.com/sylviot).
