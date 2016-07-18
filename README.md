@@ -8,7 +8,7 @@ Os algoritmos são organizados para uma ordem de aprendizado, separados por assu
 
 |# 		|Conteudo 	|C++				 |C#				  |Python	|Java	|
 |:---	|:---		|:---:				 |:---:				  |:---:	|:---:	|
-|Basic	|Input		|[:white_check_mark:](basic/Input.cpp)	 |[:white_check_mark:](basic/Input.cs)  |			|	[:white_check_mark:](basic/Input.java) |
+|Basic	|Input		|[:white_check_mark:](basic/Input.cpp)	 |[:white_check_mark:](basic/Input.cs)  |[:white_check_mark:](basic/Input.py2)  |	[:white_check_mark:](basic/Input.java) |
 |Basic	|Output		|[:white_check_mark:](basic/Output.cpp)	 |[:white_check_mark:](basic/Output.cs)  |			|	[:white_check_mark:](basic/Output.java) |
 |Basic	|Condition	|[:white_check_mark:](basic/Condition.cpp)	 |[:white_check_mark:](basic/Condition.cs)  |			|	[:white_check_mark:](basic/Condition.java) |
 |Basic	|Loop		|[:white_check_mark:](basic/Loop.cpp) |[:white_check_mark:](basic/Loop.cs)  |			|		|
@@ -47,3 +47,5 @@ ____________________
 :shipit: [sylviot](https://github.com/sylviot)
 
 :koala: [raphaelheitor](https://github.com/raphaelheitor)
+
+:moyai: [LucasBRamos](https://github.com/LucasBRamos)

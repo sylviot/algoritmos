@@ -1,0 +1,9 @@
+import fileinput
+
+class Input:
+
+    def main(self):
+        input_int = int(raw_input())
+        input_float = float(raw_input())
+        input_str = str(raw_input())
+        input_tuple = tuple(raw_input())
