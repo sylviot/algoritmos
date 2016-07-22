@@ -31,7 +31,7 @@ Os algoritmos são organizados para uma ordem de aprendizado, separados por assu
 |
 |Graph<br><br>|UnionFind<br>UnionFind Path Compression<br>UnionFind by rank|[:black_small_square:](graph/UnionFind.cpp)<br>[:black_small_square:](graph/UnionFind_PathCompression.cpp)<br><br>|	|
 |Graph|Segment tree|[:black_small_square:](graph/Segment_Tree.cpp)| |
-|Graph<br><br>|DFS - Adjacencia<br>DFS - Matriz|
+|Graph<br><br>|DFS - Adjacencia<br>DFS - Matriz|[:black_small_square:](graph/DFS_Adjacencia.cpp)<br>[:black_small_square:](graph/DFS_Matriz.cpp)<br>|
 |Graph<br><br>|BFS - Adjacencia<br>BFS - Matriz|
 |Graph|Kruskal|
 |Graph|Prim|
