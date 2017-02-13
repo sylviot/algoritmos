@@ -2,55 +2,53 @@ using System;
 
 public class Loop
 {
-	public static void Main()
-	{
-		/*
-			Entendendo o for:
-			1.(void) Inicializador de variaveis do escopo.
-			2.(bool) Condições da repetição.
-			3.(void) Incrementador de variaveis
-		*/
+  public static void Main()
+  {
+    /*
+      Entendendo o for:
+      1.(void) Inicializador de variaveis do escopo.
+      2.(bool) Condições da repetição.
+      3.(void) Incrementador/Decrementador de variaveis
+    */
 
-		// De 0 a 9 faça:
-		for(/*1*/int i = 0; /*2*/i < 10; /*3*/i++)
-		{
-			
-		}
+    for(/* Inicializador */ ;  /* Condição */ ; /* Incrementador/Decrementador */){
 
-		// De 10 a 1 faça:
-		for(/*1*/int i = 10; /*2*/i > 0; /*3*/i--)
-		{
+      // Loop infinito
 
-		}
+    }
 
-		// For infinito até ter uma quebra.
-		for(/*1*/;/*2*/;/*3*/)
-		{
-			break; // Quebra do loop.
-		}
+    /* De 0 a 9 faça: */
+    for(int i = 0; i < 10; i++)
+    {
+    }
 
-		int i = 0;
-		// While usando no inicio.
-		while(i++)
-		{
-			if(i < 3)
-			{
-				continue;
-			}
+    /* De 10 a 1 faça: */
+    for(int i = 10; i > 0; i--)
+    {
+    }
 
-			break;
-		}
+    int i = 0;
+    /* De 0 a 9 faça: */
+    while(i++ < 10)
+    {
+      if(1 + 1 == 2)
+      {
+        continue;
+      }
 
-		i = 0;
-		// while é usado após fazer.
-		do
-		{
-			if(i < 3)
-			{
-				continue;
-			}
+      break;
+    }
 
-			break;
-		} while(i++);
-	}
+    i = 10;
+    /* Faça enquanto maior que 0 */
+    do
+    {
+      if(1 + 1 == 2)
+      {
+        continue;
+      }
+
+      break;
+    } while(--i > 0);
+  }
 }

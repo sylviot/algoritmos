@@ -3,51 +3,51 @@
 using namespace std;
 
 int main(){
-	int i;
+  /*
+    Entendendo o for:
+    1.(void) Inicializador de variaveis do escopo.
+    2.(bool) Condições da repetição.
+    3.(void) Incrementador/Decrementador de variaveis
 
-	/*
-		Entendendo o for:
-		1.(void) Inicializador de variaveis do escopo.
-		2.(bool) Condições da repetição.
-		3.(void) Incrementador de variaveis
+    for(1 ; 2 ; 3)
+  */
 
-		for(1 ; 2 ; 3)
-	*/
+  for(/* Inicializador */ ;  /* Condição */ ; /* Incrementador/Decrementador */){
 
-	// De 0 a 9 faça:
-	for(/*1*/i = 0; /*2*/i < 10; /*3*/i++){
+    // Loop infinito
 
-	}
+  }
 
-	// De 10 a 1 faça:
-	for(/*1*/i = 10; /*2*/i > 0; /*3*/i--){
+  /* De 0 a 9 faça: */
+  for(int i = 0; i < 10; i++){
 
-	}
+  }
 
-	// For infinito até ter uma quebra.
-	for(/*1*/;/*2*/;/*3*/){
-		break;
-	}
+  /* De 10 a 1 faça: */
+  for(int i = 10; i > 0; i--){
 
-	i = 0;
-	// While usando no inicio.
-	while(i++){
-		if(i < 3){
-			continue;
-		}
+  }
 
-		break;
-	}
+  int i = 0;
+  /* De 0 a 9 faça: */
+  while(i++ < 10){
+    if(1 + 1 == 2){
+      continue;
+    }
 
-	i = 0;
-	// while é usado após fazer.
-	do{
-		if(i < 3){
-			continue;
-		}
+    /* Ultilizado para quebrar o loop */
+    break;
+  }
 
-		break;
-	} while(i++);
+  i = 10;
+  /* Faça enquanto maior que 0 */
+  do{
+    if(1 + 1 == 2){
+      continue;
+    }
 
-	return 0;
+    break;
+  } while(--i > 0);
+
+  return 0;
 }
