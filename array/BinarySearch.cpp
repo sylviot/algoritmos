@@ -6,22 +6,27 @@ int A[] = {1,2,3,4,5,6,7,8,9,10};
 
 int binary_search(int x, int l, int r)
 {
-	int m = (l+r)/2;
+  /* Encontra o elemento do meio. */
+  int m = (l+r)/2;
 
-	if(A[m] == x) return m;
+  /* Caso encontrar o elemento, retorne-o. */
+  if(A[m] == x) return m;
 
-	if(x > A[m]) return binary_search(x, m+1, r);
-	if(x < A[m]) return binary_search(x, l, m);
+  /* Caso o elemento seja maior que o elemento do meio, faça */
+  if(x > A[m]) return binary_search(x, m+1, r);
 
-	// Caso não encontrar.
-	return -1;
+  /* Caso o elemento seja menor que o elemento do meio, faça */
+  if(x < A[m]) return binary_search(x, l, m);
+
+  /* Caso não encontre. */
+  return -1;
 }
 
 int main()
 {
-	int x = binary_search(8, 0, 10);
+  int x = binary_search(8, 0, 10);
 
-	printf("%d\n", x);
+  printf("%d\n", x);
 
-	return 0;
+  return 0;
 }
