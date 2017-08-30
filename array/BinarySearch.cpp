@@ -24,9 +24,13 @@ int binary_search(int x, int l, int r)
 
 int main()
 {
-  int x = binary_search(8, 0, 10);
+  int x = 8;
 
-  printf("%d\n", x);
+  int arr_size = sizeof(A) / sizeof(int);
+  
+  int p = binary_search(x, 0, arr_size);
+
+  printf("[%d] is in position: %d\n", x, p);
 
   return 0;
 }
