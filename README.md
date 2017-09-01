@@ -15,7 +15,7 @@ Os algoritmos são organizados para uma ordem de aprendizado, separados por assu
 |Basic	|Bitwise		|[:white_check_mark:](basic/Bitwise.cpp)	|[:white_check_mark:](basic/Bitwise.cs)		|
 |Basic	|Convertion	|																					|																					|
 ||||
-|Array				|Binary search								|[:white_check_mark:](array/BinarySearch.cpp)								|
+|Array				|Binary search								|[:white_check_mark:](array/BinarySearch.cpp)								|[:white_check_mark:](array/BinarySearch.cs)|
 |Array<br><br>|Queue static<br>Queue Dynamic|[:white_check_mark:](array/Queue_Static.cpp)<br>[:white_check_mark:](array/Queue_Dynamic.cpp) |[:white_check_mark:](array/Queue_Static.cs)<br>[:white_check_mark:](array/Queue_Dynamic.cs)|
 |Array<br><br>|Stack Static<br>Stack Dynamic|									|																					|
 |Array				|Priority queue								|									|																					|
