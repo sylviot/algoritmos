@@ -6,13 +6,13 @@ Os algoritmos são organizados para uma ordem de aprendizado, separados por assu
 ## Conteúdo
 
 
-|#			|Conteudo 	|C++																			|C#																				|
-|:---		|:---				|:---:																		|:---:																		|
-|Basic	|Input			|[:white_check_mark:](basic/Input.cpp)		|[:white_check_mark:](basic/Input.cs)			|
-|Basic	|Output			|[:white_check_mark:](basic/Output.cpp)		|[:white_check_mark:](basic/Output.cs)		|
-|Basic	|Condition	|[:white_check_mark:](basic/Condition.cpp)|[:white_check_mark:](basic/Condition.cs)	|
-|Basic	|Loop				|[:white_check_mark:](basic/Loop.cpp)			|[:white_check_mark:](basic/Loop.cs)			|
-|Basic	|Bitwise		|[:white_check_mark:](basic/Bitwise.cpp)	|[:white_check_mark:](basic/Bitwise.cs)		|
+|#			|Conteudo 	|C++																			|C#																				|Elixir	|
+|:---		|:---				|:---:																		|:---:																		|:--:		|
+|Basic	|Input			|[:white_check_mark:](basic/Input.cpp)		|[:white_check_mark:](basic/Input.cs)			|[:white_check_mark:](basic/Input.cs)	|
+|Basic	|Output			|[:white_check_mark:](basic/Output.cpp)		|[:white_check_mark:](basic/Output.cs)		|[:white_check_mark:](basic/Input.cs)	|
+|Basic	|Condition	|[:white_check_mark:](basic/Condition.cpp)|[:white_check_mark:](basic/Condition.cs)	|[:white_check_mark:](basic/Input.cs)	|
+|Basic	|Loop				|[:white_check_mark:](basic/Loop.cpp)			|[:white_check_mark:](basic/Loop.cs)			|[:white_check_mark:](basic/Input.cs)	|
+|Basic	|Bitwise		|[:white_check_mark:](basic/Bitwise.cpp)	|[:white_check_mark:](basic/Bitwise.cs)		|[:white_check_mark:](basic/Input.cs)	|
 |Basic	|Convertion	|																					|																					|
 ||||
 |Array				|Binary search								|[:white_check_mark:](array/BinarySearch.cpp)								|[:white_check_mark:](array/BinarySearch.cs)|
