@@ -8,16 +8,16 @@ Os algoritmos são organizados para uma ordem de aprendizado, separados por assu
 
 |#			|Conteudo 	|C++																			|C#																				|Elixir	|
 |:---		|:---				|:---:																		|:---:																		|:--:		|
-|Basic	|Input			|[:white_check_mark:](basic/Input.cpp)		|[:white_check_mark:](basic/Input.cs)			|[:white_check_mark:](basic/Input.cs)	|
-|Basic	|Output			|[:white_check_mark:](basic/Output.cpp)		|[:white_check_mark:](basic/Output.cs)		|[:white_check_mark:](basic/Input.cs)	|
-|Basic	|Condition	|[:white_check_mark:](basic/Condition.cpp)|[:white_check_mark:](basic/Condition.cs)	|[:white_check_mark:](basic/Input.cs)	|
-|Basic	|Loop				|[:white_check_mark:](basic/Loop.cpp)			|[:white_check_mark:](basic/Loop.cs)			|[:white_check_mark:](basic/Input.cs)	|
-|Basic	|Bitwise		|[:white_check_mark:](basic/Bitwise.cpp)	|[:white_check_mark:](basic/Bitwise.cs)		|[:white_check_mark:](basic/Input.cs)	|
+|Basic	|Input			|[:white_check_mark:](basic/Input.cpp)		|[:white_check_mark:](basic/Input.cs)			|[:white_check_mark:](basic/Input.ex)	|
+|Basic	|Output			|[:white_check_mark:](basic/Output.cpp)		|[:white_check_mark:](basic/Output.cs)		|[:white_check_mark:](basic/Output.ex)	|
+|Basic	|Condition	|[:white_check_mark:](basic/Condition.cpp)|[:white_check_mark:](basic/Condition.cs)	|[:white_check_mark:](basic/Condition.ex)	|
+|Basic	|Loop				|[:white_check_mark:](basic/Loop.cpp)			|[:white_check_mark:](basic/Loop.cs)			|[:white_check_mark:](basic/Loop.ex)	|
+|Basic	|Bitwise		|[:white_check_mark:](basic/Bitwise.cpp)	|[:white_check_mark:](basic/Bitwise.cs)		|[:white_check_mark:](basic/Bitwise.ex)	|
 |Basic	|Convertion	|																					|																					|
 ||||
-|Array				|Binary search								|[:white_check_mark:](array/BinarySearch.cpp)								|[:white_check_mark:](array/BinarySearch.cs)|
-|Array<br><br>|Queue static<br>Queue Dynamic|[:white_check_mark:](array/Queue_Static.cpp)<br>[:white_check_mark:](array/Queue_Dynamic.cpp) |[:white_check_mark:](array/Queue_Static.cs)<br>[:white_check_mark:](array/Queue_Dynamic.cs)|
-|Array<br><br>|Stack Static<br>Stack Dynamic|									|																					|
+|Array				|Binary search								|[:white_check_mark:](array/BinarySearch.cpp)								|[:white_check_mark:](array/BinarySearch.cs)|[:white_check_mark:](array/BinarySearch.ex)
+|Array<br><br>|Queue static<br>Queue Dynamic|[:white_check_mark:](array/Queue_Static.cpp)<br>[:white_check_mark:](array/Queue_Dynamic.cpp) |[:white_check_mark:](array/Queue_Static.cs)<br>[:white_check_mark:](array/Queue_Dynamic.cs)|[:white_check_mark:](array/Queue_Static.ex)<br>[:white_check_mark:](array/Queue_Dynamic.ex)|
+|Array<br><br>|Stack Static<br>Stack Dynamic|[:white_check_mark:](array/Stack_Static.cpp)<br>[:white_check_mark:](array/Stack_Dynamic.cpp) |																					|
 |Array				|Priority queue								|									|																					|
 |Array				|Linked List									|									|																					|
 |Array				|Kadane												|									|																					|
