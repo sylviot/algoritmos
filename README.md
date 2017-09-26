@@ -22,9 +22,9 @@ Os algoritmos são organizados para uma ordem de aprendizado, separados por assu
 |Array				|Linked List									|									|																					|
 |Array				|Kadane												|									|																					|
 ||||
-|Sort	|Bubble		|[:black_small_square:](sort/Bubble.cpp)|[:white_check_mark:](sort/Bubble.cs)	|
-|Sort	|Insert		|																				|[:white_check_mark:](sort/Insert.cs)	|
-|Sort	|Select		|																				|[:white_check_mark:](sort/Select.cs)	|
+|Sort	|Bubble		|[:white_check_mark:](sort/Bubble.cpp)|[:white_check_mark:](sort/Bubble.cs)	|[:black_small_square:](sort/Bubble.ex)|
+|Sort	|Insert		|																				|[:white_check_mark:](sort/Insert.cs)	|[:black_small_square:](sort/Insert.ex)|
+|Sort	|Select		|																				|[:white_check_mark:](sort/Select.cs)	|[:black_small_square:](sort/Select.ex)|
 |Sort	|Shell		|																				|[:black_small_square:](sort/Shell.cs)|
 |Sort	|Comb			|																				|																			|
 |Sort	|Quick		|																				|[:black_small_square:](sort/Quick.cs)|
@@ -53,8 +53,14 @@ ____________________
 
 ### Colaboradores
 
-:shipit: [sylviot](https://github.com/sylviot)
+:moyai: [Lucas Ramos](https://github.com/LucasBRamos)
 
-:koala: [raphaelheitor](https://github.com/raphaelheitor)
+:bird: [Marina Lans](https://github.com/marinalans)
 
-:moyai: [LucasBRamos](https://github.com/LucasBRamos)
+:koala: [Raphael Heitor](https://github.com/raphaelheitor)
+
+:shipit: [Sylvio Tavares](https://github.com/sylviot)
+
+
+
+
