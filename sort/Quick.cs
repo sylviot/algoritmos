@@ -35,7 +35,6 @@ class QuickSort
   {
     int i = left,
         j = right,
-        temp,
         pivot = array[(left + right) / 2];
             
     while(i <= j)
