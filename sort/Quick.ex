@@ -2,7 +2,7 @@ defmodule Sort do
   def quick(arr, left, right) do
     {arr, index} = partition(arr, left, right)
 
-    if (left < index - 1), do: arr = quick(arr, left, right - 1)
+    if (left < index - 1), do: arr = quick(arr, left, index - 1)
     if (index < right), do: arr = quick(arr, index, right)
 
     arr
@@ -23,10 +23,10 @@ defmodule Sort do
       true ->
         if (i <= j) do
           arr = swap(arr, i, j)
-          i = i+1
+          compare(arr, i+1, j-1, pivot)
+        else
+          {arr, i}
         end
-
-        {arr, i}
     end
   end
 
@@ -38,7 +38,7 @@ defmodule Sort do
   end
 end
 
-array = [2, 3, 1, 5, 4]
+array = Enum.shuffle(1..50) # [2, 3, 1, 5, 4]
 
 array_sorted = Sort.quick(array, 0, length(array))
 
