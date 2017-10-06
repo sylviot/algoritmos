@@ -26,12 +26,12 @@ Os algoritmos são organizados para uma ordem de aprendizado, separados por assu
 |Sort	|Insert		|																				|[:white_check_mark:](sort/Insert.cs)	|[:black_small_square:](sort/Insert.ex)|
 |Sort	|Select		|																				|[:white_check_mark:](sort/Select.cs)	|[:black_small_square:](sort/Select.ex)|
 |Sort	|Shell		|																				|[:black_small_square:](sort/Shell.cs)|
-|Sort	|Comb			|																				|																			|
-|Sort	|Quick		|																				|[:black_small_square:](sort/Quick.cs)|
-|Sort	|Merge		|																				|																			|
-|Sort	|Heap			|																				|																			|
+|Sort	|Comb			|																			||
+|Sort	|Quick		|																				|[:black_small_square:](sort/Quick.cs)	|[:black_small_square:](sort/Quick.ex)|
+|Sort	|Merge		|																				|[:black_small_square:](sort/Merge.cs)|
+|Sort	|Heap		|																				|[:black_small_square:](sort/Heap.cs)|
 ||||
-|Graph<br><br>	|UnionFind<br>UnionFind Path Compression<br>UnionFind by rank|[:black_small_square:](graph/UnionFind.cpp)<br>[:black_small_square:](graph/UnionFind_PathCompression.cpp)<br><br>|	|
+|Graph<br><br>	|UnionFind<br>UnionFind Path Compression<br>UnionFind by rank|[:black_small_square:](graph/UnionFind.cpp)<br>[:black_small_square:](graph/UnionFind_PathCompression.cpp)<br><br>|	|[:black_small_square:](graph/UnionFind.ex)<br><br><br>|
 |Graph					|Segment tree											|[:black_small_square:](graph/Segment_Tree.cpp)| |
 |Graph<br><br>	|DFS - Adjacencia<br>DFS - Matriz	|[:black_small_square:](graph/DFS_Adjacencia.cpp)<br>[:black_small_square:](graph/DFS_Matriz.cpp)<br>|
 |Graph<br><br>	|BFS - Adjacencia<br>BFS - Matriz	|
